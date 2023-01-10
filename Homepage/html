@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="/script.js"></script>
+    <script>
+        window.onload = insertMenu()
+    </script>
+      </head>
+  <title>Homepage</title>
+</head>
+<body>
+  <div id="nav-container"></div>
+
+  <img src="image.jpg" alt="Large Image" width="100%">
+  <h1>Welcome to Killarney</h1>
+  <p>Welcome to Killarney, a beautiful town located in County Kerry, Ireland. Surrounded by stunning natural beauty, Killarney is home to beautiful lakes and forests, including the famous Killarney National Park. The park, which was established in 1932, is home to a wide range of flora and fauna and is a popular destination for hikers and nature lovers.</p>
+  <p>In addition to its natural beauty, Killarney is also known for its rich cultural heritage. The town is home to many cultural attractions, including the Muckross House and Gardens, the Ross Castle, and the St. Mary's Cathedral. Visitors can also enjoy a range of activities, including golf, horseback riding, and boat tours.</p>
+  <p>Killarney is also a vibrant and lively town, with a thriving nightlife. The town is home to several hotels, restaurants, and pubs, and is a popular destination for both Irish and international travellers. Whether you're looking to relax and enjoy the scenery, or experience the culture and history of Ireland, Killarney has something for everyone.</p>
+ 
+  <h2>What to do in Killarney</h2>
+  <p>Killarney National Park: This stunning national park is home to a wide range of flora and fauna and is a popular destination for hikers and nature lovers. The park features beautiful lakes, including Lough Lein and the Upper, Middle, and Lower Lakes, as well as the Torc Waterfall.</p>
+  <p>Muckross House and Gardens: Located in the heart of Killarney National Park, Muckross House is a beautiful Victorian mansion that is open to the public. Visitors can tour the house, which features a range of original furnishings and artifacts, and explore the surrounding gardens.</p>
+  <p>Ross Castle: Located on the shores of Lough Lein, Ross Castle is a beautiful medieval castle that dates to the 15th century. Visitors can tour the castle, which features a range of original furnishings and artifacts, and learn about the history of the castle and its occupants.</p>
+  <p>St. Mary's Cathedral: Located in the centre of Killarney, St. Mary's Cathedral is a beautiful medieval cathedral from the 13th century. Visitors can tour the cathedral, which features a range of original artifacts and artwork, and learn about the history of the cathedral and its occupants.</p>
+  <p>Horseback riding: The beautiful landscapes of Killarney are perfect for horseback riding, and there are many businesses in the area that offer guided horseback riding tours. Whether you're an experienced rider or a beginner, horseback riding is a great way to explore the countryside and enjoy the beauty of Killarney.</p>
+  <p>Boat tours: The lakes and waterways of Killarney are beautiful, and a great way to experience them is by taking a boat tour. There are companies in the area that offer guided boat tours, ranging from small boats to larger cruises. Whether you're looking to relax and take in the scenery or learn about the history and culture of the area, a boat tour is a great way to experience Killarney.</p>
+ 
+  <h3>Whats on in Killarney</h3>
+  <p>Killarney Folk Festival: This annual festival, which takes place in August, features a range of traditional Irish music, dance, and culture. The festival includes live music performances, workshops, and cultural events, and is a great way to experience the rich cultural heritage of Killarney.</p>
+  <p>Killarney Summerfest: This annual event, which takes place in July, is a celebration of all things summer. The festival includes a range of activities, such as live music, sports, and cultural events, and is a great way to enjoy the warm weather and vibrant atmosphere of Killarney.</p>
+  <p>St. Patrick's Day Parade: This annual event, which takes place on March 17th, is a celebration of Ireland's patron saint. The parade features a range of floats, live music, and cultural events, and is a great way to experience the traditional and cultural side of Killarney</p>
+  
+</body>
+</html>
+
+
+
+
+
